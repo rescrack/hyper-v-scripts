@@ -1,6 +1,6 @@
 A collection of scripts to make Hyper-V maintenance easier
 
-# Find-OrphanedVMFilesWithHistory.ps1
+# [Find-OrphanedVMFilesWithHistory.ps1](https://github.com/rescrack/hyper-v-scripts/blob/main/Find-OrphanedVMFiles.ps1)
 
 This PowerShell script identifies **orphaned Hyper-V virtual machine files** that are no longer associated with any registered VM on the host. These include:
 
